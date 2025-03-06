@@ -1,4 +1,4 @@
-# Canvas Submission Commenter
+# Canvas Global Comment
 
 ## Overview
 This tool allows you to add an automated comment to student submissions that have already been graded and have feedback posted. It integrates with the Canvas LMS API to fetch submissions, check their grading status, and post a comment if it is not already present.
