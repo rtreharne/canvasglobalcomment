@@ -30,17 +30,6 @@ To create a virtual environment and install dependencies:
    pip install -r requirements.txt
    ```
 
-## Requirements
-- Python 3.x
-- `pandas` (for handling CSV files)
-- `canvasapi` (for Canvas API integration)
-- `tqdm` (for progress tracking)
-
-You can install the required dependencies using:
-```sh
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### 1. Prepare the CSV File
