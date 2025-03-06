@@ -9,18 +9,6 @@ This tool allows you to add an automated comment to student submissions that hav
 - Retrieves all submissions for specified assignments.
 - Checks if submissions are graded and feedback is posted.
 - Adds an automated comment to eligible submissions.
-- Uses `tqdm` to display progress updates, including estimated completion time and submissions left.
-
-## Requirements
-- Python 3.x
-- `pandas` (for handling CSV files)
-- `canvasapi` (for Canvas API integration)
-- `tqdm` (for progress tracking)
-
-You can install the required dependencies using:
-```sh
-pip install -r requirements.txt
-```
 
 ## Virtual Environment Setup
 To create a virtual environment and install dependencies:
@@ -41,6 +29,17 @@ To create a virtual environment and install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
+
+## Requirements
+- Python 3.x
+- `pandas` (for handling CSV files)
+- `canvasapi` (for Canvas API integration)
+- `tqdm` (for progress tracking)
+
+You can install the required dependencies using:
+```sh
+pip install -r requirements.txt
+```
 
 ## Usage
 
