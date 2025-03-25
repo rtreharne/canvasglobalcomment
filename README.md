@@ -14,6 +14,9 @@ This tool allows you to add an automated comment to student submissions that hav
 - Checks if submissions are graded and feedback is posted.
 - Adds an automated comment to eligible submissions.
 
+## Run Using Goolge Colab (Easiest Method)
+- [Google Colab](https://colab.research.google.com/drive/1rTJIuVO-sCQXt4ZWThDeX61m3zLvI_rz?usp=sharing)
+
 ## Virtual Environment Setup
 To create a virtual environment and install dependencies:
 1. Create a virtual environment named `.venv`:
